@@ -17,3 +17,13 @@ const todos = [
 ];
 
 console.log(todos[1].text); //returns Meeting with boss
+
+for(let i = 0; i<=10; i++) {
+    console.log(`For Loop Number: ${i}`);
+}
+
+let i = 0;
+while(i < 10){
+    console.log(`While Loop Number: ${i}`);
+    i++;
+}
